@@ -1,5 +1,9 @@
 ### Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Computer+Science+Student;Cyber+Security+Enthusiast)](https://git.io/typing-svg)
+
+🌱 I’m currently learning cybersecurity concepts and web development, exploring encryption, network security, and frameworks like React.js and Node.js.
+
+📫 How to reach me: https://www.linkedin.com/in/choksiparv/
 <!--
 **Parmingo/Parmingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
